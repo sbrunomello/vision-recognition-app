@@ -1,10 +1,10 @@
-package com.mello.visionrecognitionapp;
+package br.com.projeto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VisionRecognitionAppApplicationTests {
+class RunApplicationTests {
 
 	@Test
 	void contextLoads() {
